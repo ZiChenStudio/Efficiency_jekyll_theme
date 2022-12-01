@@ -1,0 +1,46 @@
+<!-- Copyright (c) 2022, ZiChenStudio Official -->
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<body>
+    <style>
+        a {
+        color:rgb(0, 0, 0);
+        text-decoration:none;
+    }
+        a:visited {
+        color:rgb(0, 0, 0);
+        text-decoration:none;
+    }
+        a:hover {
+        color:rgb(39, 220, 226);
+        text-decoration:none;
+    }
+        a:active {
+        color:rgb(0,0,0);
+        text-decoration:none;
+    }
+    </style>
+    <header>
+        <a class="site-title" href="{% include relative %}" style="font-size: 125%;">{{ site.title }}</a>
+        <div style="display: inline-block">
+            | <a href="https://zichenstudio.github.io/Blog/about/">About</a>
+            
+            | <a href="https://zichenstudio.github.io/Blog/tags/">Tags</a>
+        </div>
+        
+    </header>
+    <hr>
+    <main>
+    <div class="content-wrapper">
+    {{ content }}
+    </div>
+    </main>
+    <!-- 回到顶部箭头 -->
+    <div class="up"><a href="#top"><img src="https://s2.loli.net/2022/10/23/CAuxdpQMZF4iG52.png" ></a></div>
+    <hr>
+    <footer>
+        <p style="text-align: center;">{% capture footer-md %}{% include footer.md %}{% endcapture %}{{ footer-md | markdownify }}</p>
+    </footer>
+</body>
+</html>
