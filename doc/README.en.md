@@ -1,24 +1,23 @@
 # jekyll_theme
-[简体中文](doc/README.en.md) [Englishi](README.md)
-## 欢迎
-> 我真切的欢迎您来到这里。
+[简体中文](../README.md) [Englishi](README.en.md)
+## Welcome
+> I really welcome you here.
 
-## 说明
-正如你所见，这里是一个开源项目。
+## Description
 
-这里存放了ZiChenStudio制作的Jekyll Theme<br>
-这个项目是开源的，也就意味着您可以随意更改源代码。
-[关于此项目使用的LICENSE](#LICENSE)
+As you can see, this is an open source project.
 
-关于这个项目的[贡献](CONTRIBUTING.md)
+Jekyll Theme produced by ZiChenStudio is stored here
+This project is open source, which means you can change the source code at will.
+[About the LICENSE used by this project](#LICENSE)
 
-## 开发者
+[Contribution](CONTINBUTING.en.md) to this project 
+## Developer
 ZiChenStudio & ZiChen Official Team
-> Tips:其实是一个团队。
-
+>Tips: Actually, it is a team.
 ## LICENSE
-我们使用了[BSD 3-Clause License](LICENSE)
-[关于这个项目](CONTRIBUTING.md)
+We used [BSD 3-Clause License](../LICENSE)
+[About this project](CONTRIBUTING.en.md)
 ```
 BSD 3-Clause License
 
@@ -52,9 +51,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ```
 
-## 法律声明
-
-- **法律声明**
+## Legal statement
+(For some reasons, the legal statement can only be written in Chinese)
 
   - **1.规则及访问条件**
 
