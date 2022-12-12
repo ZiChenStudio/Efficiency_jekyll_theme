@@ -2,18 +2,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        /* 回到顶部按钮开始 */
-        .up{
-            float: right;
-            position: fixed;
-            height: 100px;  
-            width: 100px;
-            top: 70%;
-            right:5px;
-        }
-    </style>
-    <link rel="shortcut icon" href="https://zichenstudio.github.io/Blog/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="{% include relative %}/img/favicon.ico" type="image/x-icon">
     {% include head/style.html %}
     <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">

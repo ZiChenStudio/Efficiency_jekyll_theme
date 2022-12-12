@@ -1,5 +1,5 @@
 # CONTRIBUTING
-[简体中文](../CONTRIBUTING.md) [Englishi](CONTRIBUTING.en.md)
+[简体中文](../CONTRIBUTING.md) [English](CONTRIBUTING.en.md)
 ## Welcome
 You are so excellent and want to contribute to me< br>It's incredible!!
 

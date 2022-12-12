@@ -1,5 +1,5 @@
 # 贡献
-[简体中文](CONTRIBUTING.md) [Englishi](doc/CONTRIBUTING.en.md)
+[简体中文](CONTRIBUTING.md) [English](doc/CONTRIBUTING.en.md)
 ## 欢迎
 您这么优秀还想贡献我！<br>不可思议！！
 

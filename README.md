@@ -1,5 +1,5 @@
 # jekyll_theme
-[简体中文](doc/README.en.md) [Englishi](README.md)
+[简体中文](doc/README.en.md) [English](README.md)
 ## 欢迎
 > 我真切的欢迎您来到这里。
 
@@ -15,6 +15,9 @@
 ## 开发者
 ZiChenStudio & ZiChen Official Team
 > Tips:其实是一个团队。
+
+## 使用
+如果你要使用这个项目，请阅读[使用说明](use.md)
 
 ## LICENSE
 我们使用了[BSD 3-Clause License](LICENSE)

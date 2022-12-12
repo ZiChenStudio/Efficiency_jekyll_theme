@@ -3,7 +3,7 @@ layout: page
 title: Tags
 permalink: /tags/
 ---
-
+<!-- Copyright (c) 2022, ZiChenStudio Official -->
 {% for tag in site.tags %}{% assign tagname = tag[0] %}[#{{ tagname }}](#{{ tagname }}) {% endfor %}
 
 {% for tag in site.tags %}
@@ -13,4 +13,3 @@ permalink: /tags/
  - [{{ post.title }}]({% include relative %}{{ post.url }})
     {% endfor %}
 {% endfor %}
-<!-- Copyright (c) 2022, ZiChenStudio Official -->

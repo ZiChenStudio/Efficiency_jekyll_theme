@@ -1,5 +1,5 @@
 # jekyll_theme
-[简体中文](../README.md) [Englishi](README.en.md)
+[简体中文](../README.md) [English](README.en.md)
 ## Welcome
 > I really welcome you here.
 
@@ -15,8 +15,13 @@ This project is open source, which means you can change the source code at will.
 ## Developer
 ZiChenStudio & ZiChen Official Team
 >Tips: Actually, it is a team.
+
+## Use
+##Use
+If you want to use this item, read the [instructions for use](/use.md)
+
 ## LICENSE
-We used [BSD 3-Clause License](../LICENSE)
+We used [BSD 3-Clause License](/LICENSE)
 [About this project](CONTRIBUTING.en.md)
 ```
 BSD 3-Clause License
