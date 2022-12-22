@@ -4,41 +4,23 @@
 {% include head.html %}
 <body>
     <style>
-        a {
-        color:rgb(0, 0, 0);
-        text-decoration:none;
-    }
-        a:visited {
-        color:rgb(0, 0, 0);
-        text-decoration:none;
-    }
-        a:hover {
-        color:rgb(39, 220, 226);
-        text-decoration:none;
-    }
-        a:active {
-        color:rgb(0,0,0);
-        text-decoration:none;
-    }
+        a {color:rgb(0, 0, 0);text-decoration:none;}
+        a:visited {color:rgb(0, 0, 0);text-decoration:none;}
+        a:hover {color:rgb(39, 220, 226);text-decoration:none;}
+        a:active {color:rgb(0,0,0);text-decoration:none;}
     </style>
-    <header>
+    <div>
         <a class="site-title" href="{% include relative %}" style="font-size: 125%;">{{ site.title }}</a>
         <div style="display: inline-block">
             | <a href="{% include relative %}/about/">About</a>
             
             | <a href="{% include relative %}/tags/">Tags</a>
         </div>
-        
-    </header>
-    <hr>
+    </div><hr>
     <main>
     <div class="content-wrapper">
     {{ content }}
     </div>
-    </main>
-    <hr>
-    <footer>
-        <p style="text-align: center;">{% capture footer-md %}{% include footer.md %}{% endcapture %}{{ footer-md | markdownify }}</p>
-    </footer>
+    </main><hr><div><p style="text-align: center;">{% capture footer-md %}{% include footer.md %}{% endcapture %}{{ footer-md | markdownify }}</p></div>
 </body>
 </html>
