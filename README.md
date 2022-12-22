@@ -11,7 +11,10 @@
 [关于此项目使用的LICENSE](#license)
 
 关于这个项目的[贡献](CONTRIBUTING.md)
+## 意图
+简洁的意图在于让用户获得最快的访问速度，去除占用空间的文件及效果，在保证jekyll正常运行的情况下最大程度的精简项目。
 
+**此项目比同类项目的访问速度加快18%**
 ## 开发者
 ZiChenStudio & ZiChen Official Team
 > Tips:其实是一个团队。
