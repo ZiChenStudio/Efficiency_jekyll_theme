@@ -9,8 +9,11 @@ To be honest, we don't want someone to contribute to us, but we want someone to 
 
 ## Special Thanks
 ZiChenStudio<br>
-[BiliBili](https://space.bilibili.com/1740643474)<br>
-[Github](https://github.com/ZiChenStudio/)<br>
+[ZiChenStudio's BiliBili](https://space.bilibili.com/1740643474)<br>
+[ZiChenStudio's Github](https://github.com/ZiChenStudio/)<br>
+
+Kotet<br>
+[Kotet's Github](https://github.com/kotet)<br>
 
 ## Copyright
 This project is based on [Kotet's ultralight project](https://github.com/kotet/ultralight)(hereinafter referred to as:Kotet's project). Kotet's project uses [MIT License](#mit-license)<br>Thanks to Kotet.

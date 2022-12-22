@@ -9,9 +9,11 @@
 
 ## 特别鸣谢
 ZiChenStudio<br>
-[BiliBili](https://space.bilibili.com/1740643474)<br>
-[Github](https://github.com/ZiChenStudio/)<br>
+[ZiChenStudio的BiliBili](https://space.bilibili.com/1740643474)<br>
+[ZiChenStudio的Github](https://github.com/ZiChenStudio/)<br>
 
+Kotet<br>
+[Kotet的Github](https://github.com/kotet)
 ## 版权
 此项目基于[Kotet的ultralight项目](https://github.com/kotet/ultralight)(下文简称：Kotet的项目)制作，Kotet的项目使用了[MIT License](#mit-license)<br>在此感谢Kotet。
 
