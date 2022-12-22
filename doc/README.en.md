@@ -9,7 +9,7 @@ As you can see, this is an open source project.
 
 Jekyll Theme produced by ZiChenStudio is stored here
 This project is open source, which means you can change the source code at will.
-[About the LICENSE used by this project](#LICENSE)
+[About the LICENSE used by this project](#license)
 
 [Contribution](CONTINBUTING.en.md) to this project 
 ## Developer
@@ -57,4 +57,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
 ## Legal statement
-> [ZiChen Legal statement Website](https://zichenstudio.netlify.app/HTML/Legal_notices.html)
+> [ZiChen Legal statement Website](https://zichenstudio.netlify.app/html/legal.html)

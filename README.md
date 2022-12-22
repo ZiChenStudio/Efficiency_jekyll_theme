@@ -8,7 +8,7 @@
 
 这里存放了ZiChenStudio制作的Jekyll Theme<br>
 这个项目是开源的，也就意味着您可以随意更改源代码。
-[关于此项目使用的LICENSE](#LICENSE)
+[关于此项目使用的LICENSE](#license)
 
 关于这个项目的[贡献](CONTRIBUTING.md)
 
@@ -56,4 +56,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
 ## 法律声明
-> [子沉法律声明网页](https://zichenstudio.netlify.app/HTML/Legal_notices.html)
+> [子沉法律声明网页](https://zichenstudio.netlify.app/html/legal.html)
