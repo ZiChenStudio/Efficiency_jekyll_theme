@@ -7,6 +7,18 @@
 
 ## 使用
 > 注：因为我们是基于[Kotet的项目](https://github.com/kotet/ultralight)制作的，Kotet并没有制作详细的使用教程，如果Kotet更新了使用教程，一定要去看哦~！
+### 下载与更新
+请在我们的Release界面下载此主题的压缩包(zip文件)。
+
+Release界面链接：
+- [Github](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
+- [Gitee](https://gitee.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
+
+> Tips:请选择对你来说方便的下载源。
+
+更新请自行检查Release界面
+
+> Tips:一般情况下，Github的Release更新更快！
 ### 模版
 在你下载的压缩包，或我们的储存库的src文件夹中的两个文件夹中存放我们的模版。分别是：
 ```
