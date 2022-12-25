@@ -1,5 +1,5 @@
-# jekyll_theme
-[简体中文](doc/README.en.md) [English](README.md)
+# Efficiency_jekyll_theme
+[简体中文](README.md) [English](doc/README.en.md)
 ## 欢迎
 > 我真切的欢迎您来到这里。
 
@@ -21,7 +21,8 @@ ZiChenStudio & ZiChen Official Team
 
 ## 使用
 如果你要使用这个项目，请阅读[使用说明](use.md)
-
+## 建议&反馈
+访问[issue](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 ## LICENSE
 我们使用了[BSD 3-Clause License](LICENSE)
 [关于这个项目](CONTRIBUTING.md)

@@ -21,9 +21,9 @@ ZiChenStudio & ZiChen Official Team
 >Tips: Actually, it is a team.
 
 ## Use
-##Use
 If you want to use this item, read the [instructions for use](/use.md)
-
+## Suggestion & feedback
+Visit[issue](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 ## LICENSE
 We used [BSD 3-Clause License](/LICENSE)
 [About this project](CONTRIBUTING.en.md)
