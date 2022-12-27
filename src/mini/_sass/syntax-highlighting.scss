@@ -1,17 +1,11 @@
 // Copyright (c) 2022, ZiChenStudio Official
-code {
-    padding: 1px 5px;
-}
+code {padding: 1px 5px;}
 .highlighter-rouge {
     margin: 0;
     border-radius: 5px;
     background: lightgray;
     overflow-x: scroll;
-    .highlight { 
-        padding-left: 10px;
-        max-width: none;
-        word-break: keep-all;
-    }
+    .highlight { padding-left: 10px;max-width: none;word-break: keep-all;    }
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
     .k     { font-weight: bold } // Keyword
