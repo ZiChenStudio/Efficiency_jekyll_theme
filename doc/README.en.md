@@ -1,5 +1,5 @@
 # jekyll_theme
-[简体中文](../README.md) [English](README.en.md)
+[简体中文](../README.md "README.md") [English](README.en.md "README.en.md")
 ## Welcome
 > I really welcome you here.
 
@@ -11,7 +11,7 @@ Jekyll Theme produced by ZiChenStudio is stored here
 This project is open source, which means you can change the source code at will.
 [About the LICENSE used by this project](#license)
 
-[Contribution](CONTINBUTING.en.md) to this project
+[Contribution](CONTINBUTING.en.md "CONTINBUTING.en.md") to this project
 ## Intention
 The intention of simplicity is to allow users to obtain the fastest access speed, remove space occupied files and effects, and minimize the project while ensuring the normal operation of jekyll.
 
@@ -21,12 +21,12 @@ ZiChenStudio & ZiChen Official Team
 >Tips: Actually, it is a team.
 
 ## Use
-If you want to use this item, read the [instructions for use](/use.md)
+If you want to use this item, read the [instructions for use](use.md "use.md")
 ## Suggestion & feedback
 Visit[issue](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 ## LICENSE
-We used [BSD 3-Clause License](/LICENSE)
-[About this project](CONTRIBUTING.en.md)
+We used [BSD 3-Clause License](./../LICENSE "LICENSE")<br>
+[About this project](./CONTRIBUTING.md "CONTRIBUTING.md")
 ```
 BSD 3-Clause License
 

@@ -1,5 +1,5 @@
 # CONTRIBUTING
-[简体中文](../CONTRIBUTING.md) [English](CONTRIBUTING.en.md)
+[简体中文](CONTRIBUTING.md "CONTRIBUTING.md") [English](CONTRIBUTING.en.md "CONTRIBUTING.en.md")
 ## Welcome
 You are so excellent and want to contribute to me< br>It's incredible!!
 
@@ -13,10 +13,10 @@ ZiChenStudio<br>
 [ZiChenStudio's Github](https://github.com/ZiChenStudio/)<br>
 
 Kotet<br>
-[Kotet's Github](https://github.com/kotet)<br>
+[Kotet's Github](https://github.com/kotet "Kotet")<br>
 
 ## Copyright
-This project is based on [Kotet's ultralight project](https://github.com/kotet/ultralight)(hereinafter referred to as:Kotet's project). Kotet's project uses [MIT License](#mit-license)<br>Thanks to Kotet.
+This project is based on [Kotet's ultralight project](https://github.com/kotet/ultralight "ultralight")(hereinafter referred to as:Kotet's project). Kotet's project uses [MIT License](#mit-license)<br>Thanks to Kotet.
 
 On the basis of Kotet's project, we have improved and changed Kotet's project into a project called Efficiency(hereinafter referred to as:our project). Our project uses [BSD 3-Clause License](#bsd-3-clause-license), which means you can use this project for free.
 

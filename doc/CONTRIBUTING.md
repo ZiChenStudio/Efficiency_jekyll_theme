@@ -1,5 +1,5 @@
 # 贡献
-[简体中文](CONTRIBUTING.md) [English](doc/CONTRIBUTING.en.md)
+[简体中文](CONTRIBUTING.md "CONTRIBUTING.md") [English](CONTRIBUTING.en.md "CONTRIBUTING.en.md")
 ## 欢迎
 您这么优秀还想贡献我！<br>不可思议！！
 
@@ -13,9 +13,9 @@ ZiChenStudio<br>
 [ZiChenStudio的Github](https://github.com/ZiChenStudio/)<br>
 
 Kotet<br>
-[Kotet的Github](https://github.com/kotet)
+[Kotet的Github](https://github.com/kotet "Kotet")
 ## 版权
-此项目基于[Kotet的ultralight项目](https://github.com/kotet/ultralight)(下文简称：Kotet的项目)制作，Kotet的项目使用了[MIT License](#mit-license)<br>在此感谢Kotet。
+此项目基于[Kotet的ultralight项目](https://github.com/kotet/ultralight "ultralight")(下文简称：Kotet的项目)制作，Kotet的项目使用了[MIT License](#mit-license)<br>在此感谢Kotet。
 
 我们在Kotet的项目的基础上，改进和更改了Kotet的项目，制成名为Efficency的项目(下文简称：我们的项目)，我们的项目使用了[BSD 3-Clause License](#bsd-3-clause-license)，这也就意味着您可以免费使用此项目。
 
@@ -50,7 +50,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-> [文件链接](./kotet/LICENSE)
+> [文件链接](/kotet/LICENSEk "LICENSE")
 ## BSD 3-Clause License
 ```
 BSD 3-Clause License

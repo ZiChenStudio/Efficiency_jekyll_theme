@@ -1,5 +1,5 @@
 # Efficiency_jekyll_theme
-[简体中文](README.md) [English](doc/README.en.md)
+[简体中文](README.md "README.md") [English](/doc/README.en.md "README.en.md")
 ## 欢迎
 > 我真切的欢迎您来到这里。
 
@@ -10,7 +10,7 @@
 这个项目是开源的，也就意味着您可以随意更改源代码。
 [关于此项目使用的LICENSE](#license)
 
-关于这个项目的[贡献](CONTRIBUTING.md)
+关于这个项目的[贡献](/doc/CONTRIBUTING.md "CONTRIBUTING.md")
 ## 意图
 简洁的意图在于让用户获得最快的访问速度，去除占用空间的文件及效果，在保证jekyll正常运行的情况下最大程度的精简项目。
 
@@ -20,12 +20,12 @@ ZiChenStudio & ZiChen Official Team
 > Tips:其实是一个团队。
 
 ## 使用
-如果你要使用这个项目，请阅读[使用说明](use.md)
+如果你要使用这个项目，请阅读[使用说明](/doc/use.md "use.md")
 ## 建议&反馈
 访问[issue](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 ## LICENSE
-我们使用了[BSD 3-Clause License](LICENSE)
-[关于这个项目](CONTRIBUTING.md)
+我们使用了[BSD 3-Clause License](LICENSE "LICENSE")<br>
+[关于这个项目](./doc/CONTRIBUTING.md "CONTRIBUTING.md")
 ```
 BSD 3-Clause License
 
