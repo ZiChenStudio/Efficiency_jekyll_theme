@@ -3,10 +3,10 @@
 
 [![Release](https://img.shields.io/github/release/ZiChenStudio/Efficiency_jekyll_theme.svg)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
 [![License](https://img.shields.io/github/license/ZiChenStudio/Efficiency_jekyll_theme.svg)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/ZiChenStudio/Efficiency_jekyll_theme)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
-[![Stars](https://img.shields.io/github/stars/ZiChenStudio/Efficiency_jekyll_theme)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
+[![Issues](https://img.shields.io/github/issues/ZiChenStudio/Efficiency_jekyll_theme.svg)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
+[![Stars](https://img.shields.io/github/stars/ZiChenStudio/Efficiency_jekyll_theme.svg)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
 
-并没有什么业绩
+$\uparrow$ 甚至连一个Star都没有:-(
 
 ## 欢迎
 > 我真切的欢迎您来到这里。
