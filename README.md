@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 [![Stars](https://img.shields.io/github/stars/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
 
-$\uparrow$ 甚至连一个Star都没有:-(
+$\uparrow$ 有了一个Star，但只有一个:-o
 
 ## 欢迎
 > 我真切的欢迎您来到这里。

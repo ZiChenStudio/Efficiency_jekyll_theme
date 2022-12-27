@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
 [![Stars](https://img.shields.io/github/stars/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
 
-$\uparrow$ Not even a Star:-(
+$\uparrow$ Have a Star,but only one:-o
 
 ## Welcome
 > I really welcome you here.
