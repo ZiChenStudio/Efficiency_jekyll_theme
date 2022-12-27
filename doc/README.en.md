@@ -1,5 +1,14 @@
 # jekyll_theme
 [简体中文](../README.md "README.md") [English](README.en.md "README.en.md")
+
+[![Author](https://img.shields.io/badge/Author-ZiChenStudio-39c5bb.svg?style=flat-square)](https://github.com/ZiChenStudio)
+[![Release](https://img.shields.io/github/release/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
+[![License](https://img.shields.io/github/license/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/issues)
+[![Stars](https://img.shields.io/github/stars/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme)
+
+$\uparrow$ Not even a Star:-(
+
 ## Welcome
 > I really welcome you here.
 
