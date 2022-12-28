@@ -4,7 +4,7 @@ $text-color: black;
 $border-color: lightgray;
 $link-text: #000000;
 
-body {color: $text-color;margin: 0;word-break: break-word;font-family: Helvetica,sans-serif;}
+body {color: $text-color;margin: 0;word-break: break-word;/* 字体启用 */font-family: 'HarmonyOS_Sans', sans-serif;}
 ul {padding-left: 10px;margin: 10px;}
 li {margin-bottom: 10px;}
 article {padding: 0 20px 0 20px;}
