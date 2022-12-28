@@ -1,6 +1,8 @@
 # Efficiency_jekyll_theme
 [简体中文](README.md "README.md") [English](/doc/README.en.md "README.en.md")
 
+[![Based on Kotet repository](https://img.shields.io/badge/Based%20on-Kotet%20repository-66ccff.svg?style=flat-square)](https://github.com/kotet/ultralight)
+
 [![Author](https://img.shields.io/badge/Author-ZiChenStudio-39c5bb.svg?style=flat-square)](https://github.com/ZiChenStudio)
 [![Release](https://img.shields.io/github/release/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
 [![License](https://img.shields.io/github/license/ZiChenStudio/Efficiency_jekyll_theme.svg?style=flat-square)](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/blob/master/LICENSE)
