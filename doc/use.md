@@ -7,6 +7,8 @@
 
 ## 使用
 > 注：因为我们是基于[Kotet的项目](https://github.com/kotet/ultralight)制作的，Kotet并没有制作详细的使用教程，如果Kotet更新了使用教程，一定要去看哦~！
+
+> [Kotet的README](https://github.com/kotet/ultralight/blob/master/README.md)
 ### 下载与更新
 请在我们的Release界面或去往此项目的官网下载此主题的压缩包(zip文件)。
 
@@ -14,7 +16,7 @@ Release界面链接：
 - [Github](https://github.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
 - [Gitee](https://gitee.com/ZiChenStudio/Efficiency_jekyll_theme/releases)
 
-> Tips:请选择对你来说方便的下载源。<br>更新请自行检查Release界面<br>一般情况下，Github的Release更新更快！
+> Tips: Gitee Release已停止更新<br>更新请自行检查Release界面
 
 此项目的官网：
 - [HERE](https://efficiencytheme.netlify.app/)
