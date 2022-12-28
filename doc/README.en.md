@@ -1,4 +1,4 @@
-# jekyll_theme
+# Efficiency_jekyll_theme
 [简体中文](../README.md "README.md") [English](README.en.md "README.en.md")
 
 [![Author](https://img.shields.io/badge/Author-ZiChenStudio-39c5bb.svg?style=flat-square)](https://github.com/ZiChenStudio)
